@@ -1,0 +1,44 @@
+body
+{
+	margin: auto;
+	padding: 0;
+
+}
+
+h1
+{
+	text-align: center;
+	text-transform: uppercase;
+	color: #505f75;
+}
+
+p
+{
+	text-align: center;
+
+
+}
+ .rounded
+{
+	
+	width: 300px;
+	margin: auto;
+	
+}
+.rounded img
+{
+    border-radius: 50%;
+}
+h2
+{
+	text-align: center;
+	text-transform: uppercase;
+	color: #505f75;
+}
+
+
+.text p
+{
+	margin-bottom: 0;
+}
+
